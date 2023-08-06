@@ -1,0 +1,11 @@
+name = "gurkz smp"
+pack-format = "packwiz:1.1.0"
+
+[versions]
+minecraft = "1.20.1"
+forge = "47.1.43"
+
+[index]
+file = "index.toml"
+hash-format = "sha512"
+hash = "c6837a55469babce0d8970f5111437d472ee474ff24bea17629dc47cfe905a79c5969850fa88adda15383f88322f3b54814f98d6ff2c555fe9763ab27498adc0"
